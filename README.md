@@ -5,7 +5,7 @@
 
 ## Resumen de Trabajos Prácticos
 
-A continuación se describe el contenido y las actividades realizadas en cada uno de los trabajos prácticos de la materia.
+
 
 ### TP1: Creación de una Página HTML Básica
 - Comenzamos con los fundamentos del HTML.
