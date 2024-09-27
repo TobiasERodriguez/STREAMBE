@@ -25,9 +25,12 @@
 
 ### TP5: Arte con CSS
 - Experimentamos con CSS para crear obras de arte digitales.
-- Usamos propiedades de CSS para crear formas y diseños atractivos.
+- Usamos propiedades de CSS para crear formas y diseños para hacer un pancho.
 
 ### TP6: Creación de una Landing Page
 - Diseñamos una landing page con un enfoque en la conversión y la presentación de información clara.
 - Implementamos secciones, llamadas a la acción y un diseño atractivo que capta la atención del 
 
+### TP6: Creacion de un Porfolio
+- Diseñoamos un porfolio en donde muestre algunos de los avances que hice 
+- Ademas implemente informacion relevante y que puedan comunicarse conmigo
