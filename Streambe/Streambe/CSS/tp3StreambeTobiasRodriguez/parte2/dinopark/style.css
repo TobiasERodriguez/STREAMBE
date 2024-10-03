@@ -1,0 +1,55 @@
+body{
+    background-color: bisque;
+}
+.carnivoros{
+    background-color: darkred;
+    border-style: hidden;
+    letter-spacing: 3px;
+    width: 315px;
+    height: 30; 
+    text-align: center;
+}
+.herbivoros{
+    background-color: greenyellow;
+    border-style: hidden;
+    width: 315px;
+    height: 30; 
+    text-align: center;
+}
+#trex{
+    font-size: 24px;
+    color: gold;
+}
+#Triceratops{
+    text-decoration: underline black;
+    text-decoration: overline black;
+}
+.voladores{
+    text-shadow: black 0 -2px;      
+}
+.acuaticos {
+    font-style: italic;
+    color: blue;
+}
+.dinosaur-section {
+    text-align: center;
+    letter-spacing: 5px;
+    width: 400px;
+    height: 30; 
+    border-style: groove;
+}
+.guias{
+    text-align: center;
+    color: brown;
+    border-style: solid; 
+    height: auto;
+    width: 600px;
+    border-radius: 10px;
+}
+.atracciones{
+    letter-spacing: 6px;
+    border-style: solid; 
+    width: 600px;     
+    text-align: center;
+    color: tomato;
+}
