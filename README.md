@@ -1,7 +1,7 @@
-*+# STREAMBE
------------
-##Tecnologias Utilizadas:
-![imagen html css js](https://github.com/user-attachments/assets/502fad79-c14d-4fef-bb70-e414dd31fa52)
+   STREAMBE
+ ------------
+## Tecnologias Utilizadas:
+  ![imagen html css js](https://github.com/user-attachments/assets/502fad79-c14d-4fef-bb70-e414dd31fa52)
 * HTML
 * CSS
 * JavaScript
@@ -10,8 +10,6 @@
 **Tobias Rodriguez**
 
 ## Resumen de Trabajos Prácticos
-
-
 
 ### TP1: Creación de una Página HTML Básica
 - Comenzamos con los fundamentos del HTML.
