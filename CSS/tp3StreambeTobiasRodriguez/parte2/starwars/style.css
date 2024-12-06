@@ -1,0 +1,46 @@
+body{
+  background: #000 url(https://cssanimation.rocks/demo/starwars/images/bg.jpg);
+}
+.apoyo{
+  color: antiquewhite;
+  text-align: center;
+  border-style: groove;
+  background-color: rgb(68, 68, 68);
+}
+.backgroundimperio {
+  background-color: red;
+  color: antiquewhite;  
+  border-style: groove;
+  letter-spacing: 3px;
+  width: 315px;
+  height: 30; 
+  text-align: center;  
+}
+.colorletra {
+  color: antiquewhite;
+  text-shadow: blue;
+}
+.backgroundrebeldes {
+  background-color: blue;
+  color: antiquewhite;
+  border-style: groove;
+  letter-spacing: 3px;
+  width: 315px;
+  height: 30px; 
+  text-align: center;
+}
+#tamañoletra {
+  font-size: x-large;
+}
+#fuenteitalica {
+  font-style: italic;
+}
+.imagen{ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.naves {
+  color: antiquewhite;
+  text-transform: uppercase;
+}
